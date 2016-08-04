@@ -1,0 +1,33 @@
+_repo: The-Egoist--A-Comedy-in-Narrative_1684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+description: "The Egoist is a tragicomical novel by George Meredith published in 1879.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1684'
+  wikidata: Q7731638
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Psychological fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Egoism -- Fiction'
+- GITenberg
+title: 'The Egoist: A Comedy in Narrative'
+url: http://www.gutenberg.org/ebooks/1684
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Egoist_(novel)
